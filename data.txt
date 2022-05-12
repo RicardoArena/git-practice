@@ -1,3 +1,5 @@
 Name: Ricardo
 Age: 28
 Favorite Color: Blue
+Favorite Food: Pizza
+Favorite Movie: The Lord of the Rings
